@@ -7,3 +7,5 @@ tasks:
 ports:
   - port: 3000
     onOpen: open-preview
+
+    # npm i / nvm i / brew install gh / gh extension install crguezl/gh-submodule-add
