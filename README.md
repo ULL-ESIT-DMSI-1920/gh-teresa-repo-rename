@@ -1,2 +1,2 @@
 # gh-teresa-repo-rename
-Extensión que cambia el nombre a un repositorio 
+This extension allows you, using the comand line, to change the name of a repository
